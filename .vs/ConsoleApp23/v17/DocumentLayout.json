@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\ConsoleApp23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1718EE1-A863-4931-B58A-20C56C6211A1}|ConsoleApp23\\ConsoleApp23.csproj|c:\\users\\pc\\source\\repos\\consoleapp23\\consoleapp23\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1718EE1-A863-4931-B58A-20C56C6211A1}|ConsoleApp23\\ConsoleApp23.csproj|solutionrelative:consoleapp23\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1718EE1-A863-4931-B58A-20C56C6211A1}|ConsoleApp23\\ConsoleApp23.csproj|C:\\Users\\PC\\source\\repos\\ConsoleApp23\\consoleapp23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1718EE1-A863-4931-B58A-20C56C6211A1}|ConsoleApp23\\ConsoleApp23.csproj|solutionrelative:consoleapp23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1718EE1-A863-4931-B58A-20C56C6211A1}|ConsoleApp23\\ConsoleApp23.csproj|C:\\Users\\PC\\source\\repos\\ConsoleApp23\\consoleapp23\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1718EE1-A863-4931-B58A-20C56C6211A1}|ConsoleApp23\\ConsoleApp23.csproj|solutionrelative:consoleapp23\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ConsoleApp23\\ConsoleApp23\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp23\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ConsoleApp23\\ConsoleApp23\\Program.cs",
+              "RelativeToolTip": "ConsoleApp23\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAMwA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T06:07:45.67Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ConsoleApp23\\ConsoleApp23\\IAccount.cs",
+              "RelativeDocumentMoniker": "ConsoleApp23\\IAccount.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ConsoleApp23\\ConsoleApp23\\IAccount.cs",
+              "RelativeToolTip": "ConsoleApp23\\IAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T06:11:33.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ConsoleApp23\\ConsoleApp23\\User.cs",
+              "RelativeDocumentMoniker": "ConsoleApp23\\User.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ConsoleApp23\\ConsoleApp23\\User.cs",
+              "RelativeToolTip": "ConsoleApp23\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T06:08:47.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
